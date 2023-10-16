@@ -62,7 +62,8 @@ export default function SideNav({ navigation }) {
                         {item.children.map((subItem) => (
                           <li key={subItem.name}>
                             {/* 44px */}
-                            <Link
+                            <Disclosure.Button
+                              as="a"
                               href={subItem.href}
                               className={classNames(
                                 subItem.href.toLowerCase() == pathname &&
@@ -71,7 +72,7 @@ export default function SideNav({ navigation }) {
                               )}
                             >
                               {subItem.name}
-                            </Link>
+                            </Disclosure.Button>
                           </li>
                         ))}
                       </Disclosure.Panel>
