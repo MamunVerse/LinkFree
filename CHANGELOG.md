@@ -1,45 +1,45 @@
-## [2.77.2](https://github.com/EddieHubCommunity/BioDrop/compare/v2.77.1...v2.77.2) (2023-10-21)
+## [2.83.8](https://github.com/EddieHubCommunity/BioDrop/compare/v2.83.7...v2.83.8) (2023-10-28)
 
 
 ### Bug Fixes
 
-* footer in smaller screens ([#9429](https://github.com/EddieHubCommunity/BioDrop/issues/9429)) ([12bd7d3](https://github.com/EddieHubCommunity/BioDrop/commit/12bd7d336f42232f9103bcf4832dfeb976d92705))
+* light theme pipes match text color ([#9629](https://github.com/EddieHubCommunity/BioDrop/issues/9629)) ([e11abb6](https://github.com/EddieHubCommunity/BioDrop/commit/e11abb6fd0c753055debf253d75596224e2abfb4))
 
 
 
-## [2.77.1](https://github.com/EddieHubCommunity/BioDrop/compare/v2.77.0...v2.77.1) (2023-10-21)
-
-
-### Bug Fixes
-
-* typo mistake on the onboarding screen ([#9519](https://github.com/EddieHubCommunity/BioDrop/issues/9519)) ([#9529](https://github.com/EddieHubCommunity/BioDrop/issues/9529)) ([ad612cb](https://github.com/EddieHubCommunity/BioDrop/commit/ad612cb6f5e96a2ecb448f0871680648a3c12daf))
-
-
-
-# [2.77.0](https://github.com/EddieHubCommunity/BioDrop/compare/v2.76.1...v2.77.0) (2023-10-20)
-
-
-### Features
-
-* discover to search page (fix pr 9496) ([#9545](https://github.com/EddieHubCommunity/BioDrop/issues/9545)) ([921f6d4](https://github.com/EddieHubCommunity/BioDrop/commit/921f6d46c2c636de42bd855cc4202523233c3c4e)), closes [#9496](https://github.com/EddieHubCommunity/BioDrop/issues/9496)
-
-
-
-## [2.76.1](https://github.com/EddieHubCommunity/BioDrop/compare/v2.76.0...v2.76.1) (2023-10-18)
+## [2.83.7](https://github.com/EddieHubCommunity/BioDrop/compare/v2.83.6...v2.83.7) (2023-10-28)
 
 
 ### Bug Fixes
 
-* sentry disable cron ([#9533](https://github.com/EddieHubCommunity/BioDrop/issues/9533)) ([cff7bab](https://github.com/EddieHubCommunity/BioDrop/commit/cff7babb05b42da9350c9c40767a64110dec3b6b))
+* view profile button width ([#9641](https://github.com/EddieHubCommunity/BioDrop/issues/9641)) ([6ed16ff](https://github.com/EddieHubCommunity/BioDrop/commit/6ed16ff704ce801e83211f4284487b94f75c8dd9))
 
 
 
-# [2.76.0](https://github.com/EddieHubCommunity/BioDrop/compare/v2.75.2...v2.76.0) (2023-10-18)
+## [2.83.6](https://github.com/EddieHubCommunity/BioDrop/compare/v2.83.5...v2.83.6) (2023-10-27)
 
 
-### Features
+### Bug Fixes
 
-* sentry integration ([#9187](https://github.com/EddieHubCommunity/BioDrop/issues/9187)) ([6226899](https://github.com/EddieHubCommunity/BioDrop/commit/6226899c2d1384666978b77908f7aa1c27892bdb))
+* rename component StatsChart to BarGraph (fix pr [#9442](https://github.com/EddieHubCommunity/BioDrop/issues/9442)) ([#9633](https://github.com/EddieHubCommunity/BioDrop/issues/9633)) ([71e0ab4](https://github.com/EddieHubCommunity/BioDrop/commit/71e0ab42e0231264613048ed33ee85d0f1bf7985))
+
+
+
+## [2.83.5](https://github.com/EddieHubCommunity/BioDrop/compare/v2.83.4...v2.83.5) (2023-10-26)
+
+
+### Bug Fixes
+
+* removed label on tab component ([#9551](https://github.com/EddieHubCommunity/BioDrop/issues/9551)) ([cc3a447](https://github.com/EddieHubCommunity/BioDrop/commit/cc3a4477a6d41995f7c7dd2bd315cc856f71ce6e))
+
+
+
+## [2.83.4](https://github.com/EddieHubCommunity/BioDrop/compare/v2.83.3...v2.83.4) (2023-10-26)
+
+
+### Bug Fixes
+
+* url wrap in stats list ([#9620](https://github.com/EddieHubCommunity/BioDrop/issues/9620)) ([9a8790e](https://github.com/EddieHubCommunity/BioDrop/commit/9a8790e1b4b1135e33535f627a05c2ea4c595a77))
 
 
 
